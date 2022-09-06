@@ -12,14 +12,15 @@ body{
 .header {
     display: flex;
     background-color: #1F2937;
-    padding: 0px 200px;
+    padding: 0px 22%;
+    justify-content: center;
 }
 
 .logo {
-    flex: none;
+    flex: initial;
     height: 100px;
     margin: 12px;
-    margin-left: 100px;
+    /*margin-left: 100px;*/
     border-radius: 10%;
 }
 
