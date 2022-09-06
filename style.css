@@ -159,7 +159,7 @@ body{
     display:flex;
     margin: 50px 200px;
     justify-content: center;
-    background-color: rgba(13, 63, 226, 0.822);
+    background-color: rgba(17, 100, 148, 0.699);
     gap: 100px;
     border-radius: 30px;
     padding: 50px 10px;
@@ -198,7 +198,7 @@ body{
 .right-b button {
     background-color: white; 
     border: none;
-    color: rgba(13, 63, 226, 0.822);
+    color: black;
     padding: 7px 20px;
     text-align: center;
     text-decoration: none;
@@ -207,6 +207,7 @@ body{
     font-weight: bold;
     border-radius: 5px;
     margin: auto;
+    border-color: black;
   }
 
   .footer {
